@@ -1,0 +1,43 @@
+.article {
+	margin: 2%;
+	border: solid black 2px;
+	text-align: center;
+	color: white;
+	background-color: #0788a8;
+}
+
+.article img {
+	width: 100%;
+}
+
+.article h1 {
+	font-size: 1.8rem;
+	font-family: 'Akaya Kanadaka', cursive;
+}
+.article h2 {
+	font-size: 1.2rem;
+	color: black;
+	text-decoration-line: underline;
+	font-family: 'Teko', sans-serif;
+	font-size: 1.5rem;
+	text-align: end;
+	margin-right: 2%;
+}
+.article p {
+	font-family: 'Jomhuria', cursive;
+	font-size: 1.7rem;
+}
+
+button {
+	margin-bottom: 2%;
+	border-radius: 6px;
+}
+
+#root {
+	width: 90%;
+	margin: auto;
+}
+
+body {
+	background-color: #044a5c;
+}

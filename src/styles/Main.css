@@ -1,0 +1,8 @@
+main{
+    background-color: #74A7A8;
+    margin: 0;
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
